@@ -1,0 +1,8 @@
+python >= 3
+nltk==3.6.5
+scikit-learn-extra==0.2.0
+scikit-surprise==1.1.1
+surprise==0.1
+statsmodels==0.12.1
+vader==0.0.3
+vaderSentiment==3.3.2
